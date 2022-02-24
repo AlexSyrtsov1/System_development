@@ -1,5 +1,7 @@
 # Спецификация use-case диаграммы
 
+_______
+
 ## Содержание
 - [Logging case](#log-in)
 - [Payment case](#pay)
